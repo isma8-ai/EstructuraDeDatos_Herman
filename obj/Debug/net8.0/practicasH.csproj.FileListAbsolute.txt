@@ -1,0 +1,14 @@
+C:\Users\ismae\Desktop\practicasH\obj\Debug\net8.0\practicasH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\Desktop\practicasH\obj\Debug\net8.0\practicasH.AssemblyInfoInputs.cache
+C:\Users\ismae\Desktop\practicasH\obj\Debug\net8.0\practicasH.AssemblyInfo.cs
+C:\Users\ismae\Desktop\practicasH\obj\Debug\net8.0\practicasH.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Desktop\practicasH\bin\Debug\net8.0\practicasH.exe
+C:\Users\ismae\Desktop\practicasH\bin\Debug\net8.0\practicasH.deps.json
+C:\Users\ismae\Desktop\practicasH\bin\Debug\net8.0\practicasH.runtimeconfig.json
+C:\Users\ismae\Desktop\practicasH\bin\Debug\net8.0\practicasH.dll
+C:\Users\ismae\Desktop\practicasH\bin\Debug\net8.0\practicasH.pdb
+C:\Users\ismae\Desktop\practicasH\obj\Debug\net8.0\practicasH.dll
+C:\Users\ismae\Desktop\practicasH\obj\Debug\net8.0\refint\practicasH.dll
+C:\Users\ismae\Desktop\practicasH\obj\Debug\net8.0\practicasH.pdb
+C:\Users\ismae\Desktop\practicasH\obj\Debug\net8.0\practicasH.genruntimeconfig.cache
+C:\Users\ismae\Desktop\practicasH\obj\Debug\net8.0\ref\practicasH.dll
